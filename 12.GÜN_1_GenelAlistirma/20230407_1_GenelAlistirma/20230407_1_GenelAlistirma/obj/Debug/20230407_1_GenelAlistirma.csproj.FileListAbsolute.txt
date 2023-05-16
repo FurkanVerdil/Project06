@@ -1,0 +1,16 @@
+D:\Haftaiçi Sabah\Console Dersleri\12. Gün\20230407_1_GenelAlistirma\20230407_1_GenelAlistirma\bin\Debug\20230407_1_GenelAlistirma.exe.config
+D:\Haftaiçi Sabah\Console Dersleri\12. Gün\20230407_1_GenelAlistirma\20230407_1_GenelAlistirma\bin\Debug\20230407_1_GenelAlistirma.exe
+D:\Haftaiçi Sabah\Console Dersleri\12. Gün\20230407_1_GenelAlistirma\20230407_1_GenelAlistirma\bin\Debug\20230407_1_GenelAlistirma.pdb
+D:\Haftaiçi Sabah\Console Dersleri\12. Gün\20230407_1_GenelAlistirma\20230407_1_GenelAlistirma\obj\Debug\20230407_1_GenelAlistirma.csproj.AssemblyReference.cache
+D:\Haftaiçi Sabah\Console Dersleri\12. Gün\20230407_1_GenelAlistirma\20230407_1_GenelAlistirma\obj\Debug\20230407_1_GenelAlistirma.csproj.SuggestedBindingRedirects.cache
+D:\Haftaiçi Sabah\Console Dersleri\12. Gün\20230407_1_GenelAlistirma\20230407_1_GenelAlistirma\obj\Debug\20230407_1_GenelAlistirma.csproj.CoreCompileInputs.cache
+D:\Haftaiçi Sabah\Console Dersleri\12. Gün\20230407_1_GenelAlistirma\20230407_1_GenelAlistirma\obj\Debug\20230407_1_GenelAlistirma.exe
+D:\Haftaiçi Sabah\Console Dersleri\12. Gün\20230407_1_GenelAlistirma\20230407_1_GenelAlistirma\obj\Debug\20230407_1_GenelAlistirma.pdb
+C:\Users\FV\Desktop\çalışmalar\HOCA\12.GÜN_1_GenelAlistirma\20230407_1_GenelAlistirma\20230407_1_GenelAlistirma\bin\Debug\20230407_1_GenelAlistirma.exe.config
+C:\Users\FV\Desktop\çalışmalar\HOCA\12.GÜN_1_GenelAlistirma\20230407_1_GenelAlistirma\20230407_1_GenelAlistirma\bin\Debug\20230407_1_GenelAlistirma.exe
+C:\Users\FV\Desktop\çalışmalar\HOCA\12.GÜN_1_GenelAlistirma\20230407_1_GenelAlistirma\20230407_1_GenelAlistirma\bin\Debug\20230407_1_GenelAlistirma.pdb
+C:\Users\FV\Desktop\çalışmalar\HOCA\12.GÜN_1_GenelAlistirma\20230407_1_GenelAlistirma\20230407_1_GenelAlistirma\obj\Debug\20230407_1_GenelAlistirma.csproj.AssemblyReference.cache
+C:\Users\FV\Desktop\çalışmalar\HOCA\12.GÜN_1_GenelAlistirma\20230407_1_GenelAlistirma\20230407_1_GenelAlistirma\obj\Debug\20230407_1_GenelAlistirma.csproj.SuggestedBindingRedirects.cache
+C:\Users\FV\Desktop\çalışmalar\HOCA\12.GÜN_1_GenelAlistirma\20230407_1_GenelAlistirma\20230407_1_GenelAlistirma\obj\Debug\20230407_1_GenelAlistirma.csproj.CoreCompileInputs.cache
+C:\Users\FV\Desktop\çalışmalar\HOCA\12.GÜN_1_GenelAlistirma\20230407_1_GenelAlistirma\20230407_1_GenelAlistirma\obj\Debug\20230407_1_GenelAlistirma.exe
+C:\Users\FV\Desktop\çalışmalar\HOCA\12.GÜN_1_GenelAlistirma\20230407_1_GenelAlistirma\20230407_1_GenelAlistirma\obj\Debug\20230407_1_GenelAlistirma.pdb
